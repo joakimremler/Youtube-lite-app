@@ -6,10 +6,10 @@ The advantage of using this app is that its faster the using youtube.com.
 This is inspired from ReduxSimpleStarter
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 
-### Features
+## Features
 * React
 * Youtube API
 
-#### Installation
+## Installation
 * clone this repo
 * run npm install
