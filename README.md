@@ -8,5 +8,5 @@ This is inspired from ReduxSimpleStarter
 * Youtube API
 
 ### Installation
-*clone this repo
-*run npm install
+* clone this repo
+* run npm install
